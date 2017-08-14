@@ -18,7 +18,9 @@ To work around this, I did the following:
 1. Clone this repository
 1. Run `codeclimate analyze`
 
-    You should see output that looks like this:
+    You should see output that notes "rule named no-invalid-template-strings is not found"
+
+    The full output however is below:
 
 ```
 Starting analysis
